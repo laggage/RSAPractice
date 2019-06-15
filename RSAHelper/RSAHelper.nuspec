@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Laggage</authors>
+    <owners>Laggage</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RSA helper</description>
+    <copyright>Copyright 2019</copyright>
+    <tags>C# .Net RSA Crypto</tags>
+  </metadata>
+</package>
